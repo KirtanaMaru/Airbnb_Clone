@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Airbnb_Clone/static/css/main.cd395e0c.css",
+    "main.js": "/Airbnb_Clone/static/js/main.02b5afad.js",
+    "static/js/787.27d3649c.chunk.js": "/Airbnb_Clone/static/js/787.27d3649c.chunk.js",
+    "static/media/iamge8.jpg": "/Airbnb_Clone/static/media/iamge8.e1dfd05ca0f7e254069c.jpg",
+    "static/media/image6.jpg": "/Airbnb_Clone/static/media/image6.ca786369a3ce99ec3438.jpg",
+    "static/media/image7.jpg": "/Airbnb_Clone/static/media/image7.80957e0c7d71d91939e0.jpg",
+    "static/media/image8.jpg": "/Airbnb_Clone/static/media/image8.6b9a94e46e81a5e116fc.jpg",
+    "static/media/image4.jpg": "/Airbnb_Clone/static/media/image4.692bcae8af092bbc5535.jpg",
+    "static/media/image9.jpg": "/Airbnb_Clone/static/media/image9.b3a9cecb67c387d842d1.jpg",
+    "static/media/image5.jpg": "/Airbnb_Clone/static/media/image5.2524eb3342ea71c7ada9.jpg",
+    "static/media/image2.jpg": "/Airbnb_Clone/static/media/image2.251a1362f8c44914f2d8.jpg",
+    "static/media/image1.jpg": "/Airbnb_Clone/static/media/image1.6edad4856c9623d86b50.jpg",
+    "static/media/image3.jpg": "/Airbnb_Clone/static/media/image3.4bb9a98c0215932ccbd8.jpg",
+    "static/media/image2.jpeg": "/Airbnb_Clone/static/media/image2.d11b05719d6915233978.jpeg",
+    "static/media/image7].jpg": "/Airbnb_Clone/static/media/image7].16cfe748149318569d30.jpg",
+    "static/media/image1 (1).jpg": "/Airbnb_Clone/static/media/image1 (1).7a5607ba664083069327.jpg",
+    "static/media/iamge5.jpg": "/Airbnb_Clone/static/media/iamge5.6e9ec4f9bd3cab83b619.jpg",
+    "static/media/image8.jpeg": "/Airbnb_Clone/static/media/image8.f0f09e740f1a5d008eb0.jpeg",
+    "static/media/mage5.jpg": "/Airbnb_Clone/static/media/mage5.a6fc4bf31a2892e84504.jpg",
+    "static/media/iamge7.jpg": "/Airbnb_Clone/static/media/iamge7.bc758e42bd2ab892e3fc.jpg",
+    "static/media/mage3.jpg": "/Airbnb_Clone/static/media/mage3.3797318e12879ef18594.jpg",
+    "static/media/image7.jpeg": "/Airbnb_Clone/static/media/image7.7a4ca36a980b5d9e5e3e.jpeg",
+    "static/media/mage1.jpg": "/Airbnb_Clone/static/media/mage1.3cc5489283150463e665.jpg",
+    "static/media/mage6.jpg": "/Airbnb_Clone/static/media/mage6.47fb5eb565e1bd0b8a43.jpg",
+    "static/media/island.png": "/Airbnb_Clone/static/media/island.5bb8b1b50e8aea9ad87d.png",
+    "static/media/leaning-tower-of-pisa.png": "/Airbnb_Clone/static/media/leaning-tower-of-pisa.58d55114c0fc8adbd1c5.png",
+    "static/media/search.png": "/Airbnb_Clone/static/media/search.ee0e2f006d3a3fff6326.png",
+    "static/media/beach.png": "/Airbnb_Clone/static/media/beach.1878118464ebb96ef0d1.png",
+    "static/media/browser.png": "/Airbnb_Clone/static/media/browser.b487b48f65899758f2f2.png",
+    "static/media/airbnblogo.png": "/Airbnb_Clone/static/media/airbnblogo.c42228a8efa14536d51e.png",
+    "static/media/logo.png": "/Airbnb_Clone/static/media/logo.dcb558306cc47aee84eb.png",
+    "index.html": "/Airbnb_Clone/index.html",
+    "main.cd395e0c.css.map": "/Airbnb_Clone/static/css/main.cd395e0c.css.map",
+    "main.02b5afad.js.map": "/Airbnb_Clone/static/js/main.02b5afad.js.map",
+    "787.27d3649c.chunk.js.map": "/Airbnb_Clone/static/js/787.27d3649c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd395e0c.css",
+    "static/js/main.02b5afad.js"
+  ]
+}
