@@ -1,0 +1,130 @@
+
+.Navbar{
+  
+  background-color: white;
+  position: sticky;
+  top:0;
+  z-index: 100;
+}
+
+.nav{
+  
+    display:flex;
+    background-color: white;
+    justify-content: space-between; 
+    padding-top: 10px;
+    margin:0px 40px 20px 40px; 
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+hr.new1 {
+    border-top: 1px solid lightgray ;
+  }
+  
+  .airbnblogo{
+    height:60px;
+    width:110px;
+    padding-right: 130px;
+  }
+  .logo{
+    margin-top: 8px;
+    height:40px;
+    width:40px;
+    align-items: center;
+  }
+  .search{
+    margin:8px 0px 0px 8px;
+    border:1px solid lightgray;
+    border-radius:30px;
+    display: flex;
+    height:45px;
+    padding-right:5px;
+    box-shadow: 0px 3px 4px 2px rgba(224, 224, 224, 0.404);
+  }
+  .search:hover{
+    box-shadow: 1px 2px 4px 1px rgb(211, 210, 210);
+  }
+  .search-side{
+    margin: 7px 0px;
+    height:30px;
+    width:30px;
+  }
+  .search p{
+    margin: 12px -2px;
+    padding: 0px 22px;
+    font-weight: 500;
+    font-size: 14px;
+    white-space:nowrap;
+    overflow: hidden;
+    
+  }
+  .browser{ 
+    width:20px;
+    height:20px;
+  }
+  .side{
+    border:1px solid lightgrey;
+    border-radius: 30px;
+    padding:7px 10px;
+    min-width:50px;
+    display: flex;
+    gap:10px;
+    align-items: center;
+  }
+  .menu{
+    width:17px;
+    height:17px;
+    
+  }
+  .profile{
+    width:25px;
+    height:25px;
+    border-radius:50%;
+  }
+  .menu-card{
+    display: none;
+    margin-top: 70px;
+    right:40px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    background-color: white;
+    position: absolute;
+    height: 200px;
+    width:230px;
+    
+    z-index: 3;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+ 
+  
+  .menu-item{
+    margin-top: 5px;
+    padding:10px 20px;
+    font-size:14px;
+    color:rgb(43, 43, 43);
+    font-weight: normal;
+    cursor: pointer;
+  }
+  .menu-item:hover{
+    background-color: rgba(235, 232, 232, 0.548);
+   
+  }
+
+  .showmap{
+    top:580px;
+    margin: auto;
+    width:120px;
+    z-index: 100;
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: 10px;
+    color:white;
+    background-color: black;
+    position: sticky;
+    text-align: center;
+    font-weight: 600;
+  }
+  .map{
+    padding-left:5px ;
+    height: 15px;
+    width:15px;
+  }

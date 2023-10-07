@@ -1,24 +1,33 @@
-import logo from './logo.svg';
+
 import './App.css';
+import Amazingviews from './components/Views/Amazingviews';
+import Amazingpool from './components/Views/Amazingpool';
+import Beach from './components/Views/Beach';
+import Farms from './components/Views/Farms';
+import Lakefront from './components/Views/Lakefront';
+import Navbar from './components/Navbar/Navbar';
+import { BrowserRouter as Router, Route, Routes} from 'react-router-dom';
+import Footer from './components/Footer/Footer';
+
+
+
 
 function App() {
+  
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+    <Navbar/>
+    <Routes>
+    <Route path='/amazingview' exact element={<Amazingviews/>} />
+    <Route path='/farms' exact element={<Farms/>} />
+    <Route path='/' exact element={<Amazingpool/>} />
+    <Route path='/beach' exact element={<Beach/>} />
+    <Route path='/lakefront' exact element={<Lakefront/>} />
+    </Routes>
+   
+    <Footer/>
+    </Router>
+    
   );
 }
 
